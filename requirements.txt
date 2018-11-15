@@ -1,2 +1,1 @@
-# Bjornolf-GM-Discord-Bot
-A work in progress bot to learn python and the discord API.
+
