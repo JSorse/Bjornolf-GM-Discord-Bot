@@ -4,7 +4,6 @@ import random
 import pickle
 import os
 
-heroku buildpacks:set heroku/python
 client = discord.Client()
 
 @client.event
